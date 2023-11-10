@@ -1,8 +1,7 @@
 build
 **/.aptos/
 **/coverage/
-.DS_Store
-
+.DS_
 # Logs
 logs
 *.log
